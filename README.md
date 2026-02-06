@@ -37,7 +37,7 @@ use Instaboost\Tools\InstagramDownloader;
 
 ### Option 2: Clone Repository
 ```bash
-git clone https://github.com/yourusername/instagram-media-downloader-php.git
+git clone https://github.com/mikesmith-ge/instagram-media-downloader-php.git
 cd instagram-media-downloader-php
 ```
 
