@@ -13,6 +13,8 @@
 
 **InstagramDownloader** is a simple, open-source PHP tool that extracts media (images and videos) from public Instagram posts by parsing Open Graph meta tags. Perfect for educational purposes, prototypes, or small-scale projects.
 
+**Also available in:** [Python](https://github.com/mikesmith-ge/instagram-media-downloader-python) | **PHP** (you are here)
+
 ## ✨ Features
 
 - ✅ **Zero dependencies** – Pure PHP, no Composer packages required
@@ -147,6 +149,13 @@ This is a **basic scraper** with several important limitations:
 - ✅ Dedicated support
 
 [**Learn more →**](https://instaboost.ge)
+
+## 🔄 Related Projects
+
+Looking for other implementations?
+
+- **[PHP Version](https://github.com/mikesmith-ge/instagram-media-downloader-python)** – Same functionality in Python
+- More tools coming soon!
 
 ## 📄 License
 
