@@ -8,6 +8,9 @@
 
 ## 📋 Overview
 
+- How to download Instagram photos in PHP
+- Get Instagram video URL programmatically
+
 **InstagramDownloader** is a simple, open-source PHP tool that extracts media (images and videos) from public Instagram posts by parsing Open Graph meta tags. Perfect for educational purposes, prototypes, or small-scale projects.
 
 ## ✨ Features
