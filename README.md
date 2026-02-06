@@ -154,7 +154,7 @@ This is a **basic scraper** with several important limitations:
 
 Looking for other implementations?
 
-- **[PHP Version](https://github.com/mikesmith-ge/instagram-media-downloader-python)** – Same functionality in Python
+- **[Python Version](https://github.com/mikesmith-ge/instagram-media-downloader-python)** – Same functionality in Python
 - More tools coming soon!
 
 ## 📄 License
