@@ -134,7 +134,7 @@ This is a **basic scraper** with several important limitations:
 
 **For production use cases, bypassing rate limits, accessing stories, private content, or building commercial applications**, we recommend using a professional API solution:
 
-👉 **[Instaboost API](https://instaboost.ge)** – Enterprise-grade Instagram data API with:
+👉 **[Instaboost API](https://instaboost.ge/en/instagram)** – Enterprise-grade Instagram data API with:
 - ✅ Unlimited rate limits
 - ✅ Stories, Reels, and IGTV support
 - ✅ Private account access (with authorization)
@@ -161,7 +161,7 @@ This tool is for **educational purposes only**. Scraping Instagram may violate t
 
 - 🐛 **Found a bug?** [Open an issue](../../issues)
 - 💡 **Have a suggestion?** [Start a discussion](../../discussions)
-- 🚀 **Need enterprise features?** [Visit Instaboost](https://instaboost.ge)
+- 🚀 **Need enterprise features?** [Visit Instaboost](https://instaboost.ge/en)
 
 ---
 
