@@ -157,6 +157,9 @@ Looking for other implementations?
 - **[Python Version](https://github.com/mikesmith-ge/instagram-media-downloader-python)** – Same functionality in Python
 - **[TikTok Downloader (PHP)](https://github.com/mikesmith-ge/tiktok-video-downloader-php)** – Extract TikTok videos
 - **[TikTok Downloader (Node.js)](https://github.com/mikesmith-ge/tiktok-video-downloader-nodejs)** – TikTok downloader in JavaScript
+- **[YouTube Shorts Downloader (Python)](https://github.com/mikesmith-ge/youtube-shorts-downloader-python)** – Download YouTube Shorts
+- **[YouTube Shorts Downloader (PHP)](https://github.com/mikesmith-ge/youtube-shorts-downloader-php)** – YouTube in PHP
+- **[YouTube Shorts Downloader (Node.js)](https://github.com/mikesmith-ge/youtube-shorts-downloader-nodejs)** – YouTube in JavaScript
 - More tools coming soon!
 
 
